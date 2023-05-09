@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(31, 46, 136) 25%, rgba(7,56,152,1) 35%, rgba(6,82,169,1) 45%, rgba(0,212,255,1) 100%, rgba(0,172,255,1) 100%);
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.sub-heading {
+    width: 100%;
+    margin-top: 0px;
+    color: red;
+    font-weight: bold;
+}
+.heading:hover{
+    font-size: large;
+}
+.link{
+    background-color: black;
+    border-radius: 10px;
+    width: 80px;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
